@@ -13,8 +13,8 @@ Untuk menjalankan proogram ini, perlu diperhatikan sebagai berikut :
 
 
 Contoh Pengaplikasian : 
-1. ![image](https://user-images.githubusercontent.com/86830762/144735011-1ec5d95d-6b9d-42d8-956c-7e2cb9430b1c.png)
-2. ![image](https://user-images.githubusercontent.com/86830762/144735020-dadf3f97-34e1-4afd-874f-5999b217db97.png)
+-![image](https://user-images.githubusercontent.com/86830762/144735011-1ec5d95d-6b9d-42d8-956c-7e2cb9430b1c.png)
+-![image](https://user-images.githubusercontent.com/86830762/144735020-dadf3f97-34e1-4afd-874f-5999b217db97.png)
 
 
 Reference : 
